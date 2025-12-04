@@ -1,0 +1,14 @@
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.AssemblyInfoInputs.cache
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.AssemblyInfo.cs
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\egoro\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.exe
+C:\Users\egoro\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.deps.json
+C:\Users\egoro\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.runtimeconfig.json
+C:\Users\egoro\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.dll
+C:\Users\egoro\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.pdb
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.dll
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\refint\CourseManagementSystem.dll
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.pdb
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.genruntimeconfig.cache
+C:\Users\egoro\CourseManagementSystem\obj\Debug\net10.0\ref\CourseManagementSystem.dll
