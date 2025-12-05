@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egoro\\CourseManagementSystem\\CourseManagementSystem.csproj": {}
+    "c:\\Users\\egoro\\CourseManagementSystem\\CourseManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egoro\\CourseManagementSystem\\CourseManagementSystem.csproj": {
+    "c:\\Users\\egoro\\CourseManagementSystem\\CourseManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egoro\\CourseManagementSystem\\CourseManagementSystem.csproj",
+        "projectUniqueName": "c:\\Users\\egoro\\CourseManagementSystem\\CourseManagementSystem.csproj",
         "projectName": "CourseManagementSystem",
-        "projectPath": "C:\\Users\\egoro\\CourseManagementSystem\\CourseManagementSystem.csproj",
+        "projectPath": "c:\\Users\\egoro\\CourseManagementSystem\\CourseManagementSystem.csproj",
         "packagesPath": "C:\\Users\\egoro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egoro\\CourseManagementSystem\\obj\\",
+        "outputPath": "c:\\Users\\egoro\\CourseManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

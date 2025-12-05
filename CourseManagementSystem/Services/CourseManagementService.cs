@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-using System.Linq;
 using CourseManagementSystem.Interfaces;
 using CourseManagementSystem.Models;
 
@@ -98,7 +96,6 @@ namespace CourseManagementSystem.Services
             _studentRepository.AddStudent(student);
         }
 
-        // Дополнительные методы для получения данных
         public IEnumerable<Course> GetAllCourses() => _courseRepository.GetAllCourses();
         public IEnumerable<Teacher> GetAllTeachers() => _teacherRepository.GetAllTeachers();
         public IEnumerable<Student> GetAllStudents() => _studentRepository.GetAllStudents();

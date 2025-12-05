@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace CourseManagementSystem.Models
 {
     public class Teacher : Person
